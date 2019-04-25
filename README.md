@@ -1,1 +1,2 @@
-# github-cli
+# gogit
+CLI for github
